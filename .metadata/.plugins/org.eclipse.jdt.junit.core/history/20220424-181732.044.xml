@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="testRunner" project="rest" tests="1" started="1" failures="1" errors="0" ignored="0">
+  <testsuite name="Runner.testRunner" time="2.406">
+    <testsuite name="To Test services in https://bitly.com" time="2.406">
+      <testcase name="To test following methods" classname="To Test services in https://bitly.com" time="2.406">
+        <failure>java.lang.AssertionError: expected [test2] but found [test]&#13;
+	at org.testng.Assert.fail(Assert.java:94)&#13;
+	at org.testng.Assert.failNotEquals(Assert.java:494)&#13;
+	at org.testng.Assert.assertEquals(Assert.java:123)&#13;
+	at org.testng.Assert.assertEquals(Assert.java:176)&#13;
+	at org.testng.Assert.assertEquals(Assert.java:186)&#13;
+	at stepDef.steps.authorization(steps.java:55)&#13;
+	at ✽.user has generated token for Authorization(file:///E:/bitlydemoprj/rest/src/test/java/features/bitlyapi.feature:10)&#13;
+&#13;
+</failure>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

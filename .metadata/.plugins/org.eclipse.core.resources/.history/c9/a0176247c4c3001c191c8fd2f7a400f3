@@ -1,0 +1,7 @@
+Feature: To Test services in "https://bitly.com"
+
+Scenario: To test following methods
+			
+			
+Given user has generated token for Authorization
+

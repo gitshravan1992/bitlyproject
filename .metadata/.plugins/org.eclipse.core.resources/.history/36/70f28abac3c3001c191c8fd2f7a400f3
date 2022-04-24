@@ -1,0 +1,9 @@
+Feature : To Test services in "https://bitly.com"
+
+Background: User has created an account in bitly and also  created several links
+
+Scenario : To test following methods 
+			
+			
+Given user has generated token for Authorization
+

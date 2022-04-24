@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="testRunner" project="rest" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="Runner.testRunner" time="2.368">
+    <testsuite name="To Test services in &quot;https://bitly.com&quot;" time="2.368">
+      <testcase name="To test following methods" classname="To Test services in &quot;https://bitly.com&quot;" time="2.368">
+        <skipped>io.cucumber.java.PendingException: TODO: implement me&#13;
+	at stepDef.steps.authorization(steps.java:56)&#13;
+	at ✽.user has generated token for Authorization(file:///E:/bitlydemoprj/rest/src/test/java/features/bitlyapi1.feature:6)&#13;
+&#13;
+</skipped>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>
