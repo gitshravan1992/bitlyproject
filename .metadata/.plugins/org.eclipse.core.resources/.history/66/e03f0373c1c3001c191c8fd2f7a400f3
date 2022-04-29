@@ -1,9 +1,0 @@
-Feature : To Test services in https://bitly.com
-
-Scenario : To test following methods 
-			GET/groups/{group_guid}
-			GET/groups/{group_guid}/bitlinks/{sort}
-			POST/bitlinks
-
-Given User has created an account in bitly and created serveral links
-When GET/groups/{group_guid}
